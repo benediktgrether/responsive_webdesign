@@ -80,3 +80,10 @@ Ziel:
 (Link einarbeiten.)
 
 
+## Semesteraufgabe 
+- Augmented Fashion 
+  - Entwickeln Sie eine Vision für die Mode der Zukunft. 
+  - Gestalten Sie hierzu einen Prototypen für ein Kleidungsstück das erweitert durch Sensoren und Ausgabeeinheiten mit der Umgebung kommuniziert. 
+
+= Überlegung bis zum 26.03.2019
+
