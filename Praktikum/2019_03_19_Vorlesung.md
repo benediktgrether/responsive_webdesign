@@ -87,3 +87,11 @@ Ziel:
 
 = Überlegung bis zum 26.03.2019
 
+**Constraints**
+
+- Ein Fahsion Artikel kann sein : Kleidung, Schuhe, Accessoires
+- Eingabe-Sensoren: Näherung, Berührung, Umgebungslautstärke,...
+- Ausgabe: LEDs, Servo - oder Schrittmotoren 
+  - keine klassischen Displays
+
+- Connectivity: Berücksichtigen Sie Möglichkeiten der Vernetzung.
