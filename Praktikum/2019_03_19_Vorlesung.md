@@ -95,3 +95,51 @@ Ziel:
   - keine klassischen Displays
 
 - Connectivity: Berücksichtigen Sie Möglichkeiten der Vernetzung.
+
+## Abgabe 
+**Prototype des Kleidungsstücks**
+- Idealerweise mit einer in Teilen funktionierenden technischen Lösung,
+- z.B Mit hilfe eines Arduinos / Raspberry Pis/...
+
+**Programmierte responsive Landingpage**
+- als Onepager zur Bewerbung ink. eines kurzen Showcase-Videos ( HTML 5 / CSS / JavaScript).
+
+## Bewertung 
+- 1/2 der Note : Semesteraufgabe
+- 1/2 der Note : 3 Einzelaufgaben im Unterricht und zur Nachbereitung zu Hause.
+
+## Bewertungskriterien Semesteraufgabe
+
+- Idee und Konzept (Orginalität)
+- Gestalterische Qualität
+- (Technische) Umsetzung
+- Teamleistung und -organisation
+- Aufwand
+  
+= 100 Punkte System
+
+## Bewertung Einzelaufgaben
+
+- 3 Aufgaben a 20 Punkte
+
+## RWD Ausrüstung
+
+- Mobiler Rechner (Laptop)
+- Smartphone
+- Marker / Cutter / Papier 
+
+## Datenaustausch
+[Datenaustausch Google Drive Link](https://tiny.cc/j1l83y)
+
+
+## Nächste Woche 26.Marz 2019
+
+[] Packpapier
+
+[] dicke Stifte
+
+[] PostIts
+
+[] Scheren
+
+[] Klebstoff
