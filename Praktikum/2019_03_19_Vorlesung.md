@@ -134,12 +134,12 @@ Ziel:
 
 ## Nächste Woche 26.Marz 2019
 
-[ ] Packpapier
+- [ ] Packpapier
 
-[ ] dicke Stifte
+- [ ] dicke Stifte
 
-[ ] PostIts
+- [ ] PostIts
 
-[ ] Scheren
+- [ ] Scheren
 
-[ ] Klebstoff
+- [ ] Klebstoff
