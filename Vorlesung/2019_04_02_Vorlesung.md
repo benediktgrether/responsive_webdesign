@@ -120,3 +120,6 @@
   - [iFly Magazine Off Canvas](https://www.iflymagazine.com/de)
   - Weniger häufig benötigter Inhalt im nicht sichtbaren Bereich, z.B. Navigation
 
+## Besondere Problemstellung 
+> Wachsende Displaygröße haben bei der Bedienung einige Probleme
+
