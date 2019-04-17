@@ -36,4 +36,74 @@
 - "#" werden ausgeblendet
 - Sehr unübersichtliche Landingpage 
 - Unterpunkte sind sehr formal und klar gegliedert.
-- 
+
+[Ridestore](https://www.ridestore.de/)
+
+
+<hr>
+
+## Funktione von Typografie
+
+- **Informationsvermittlung**
+  - Lesbarkeit
+  - Gleiderung und Strukturierung (Hierarchiebildung)
+
+- **Kommunikations- und Gestaltungselement**
+  - Unterstützung der emotionalen Wahrnehmung
+  - Wiederkennung (Markenbildung)
+
+<hr>
+
+## Leseverhalten im Netz
+
+- 79 Prozent der Webnuter **lesen nicht ** - sie überfliegen und **scannen**
+- 16 Prozent **lesen Wort für Wort**
+- 20 Prozent **lesen nur** die **Headlines**
+- **Online** wird **25% langsamer** gelesen
+
+
+### Read, Skim und Scan
+
+- **Read**: komplexe Texte Wort für Wort vollständig erfassen und verstehen
+- **Skim**: Technik des Schnellesens zur Erfassung und Einordnung des Inhaltes in den Gesamtzusammenhang
+- **Scan**: Nur bestimmte Schlüsselbegriffe werden auf ihr Vorkommen im Text geprüft
+
+### F-Pattern (Desktop)
+
+- Am Anfang nehmen wir den Text intensiver und gegen ende Scan ihn nur noch.
+
+#### Lösungen
+
+- Aussagekräftige Überschriften und Zwischenüberschriften
+- Eine Idee pro Absatz
+- Halbe Wortanzahl (oder weniger) im Vergleich zum normalen Schreiben
+- Schlüsselwörter hervorheben
+- Aufzählungen 
+- Unterstützung durch bildhafte, visuell übersetzende Elemente 
+  - z.B. Icons 
+
+<hr>
+
+## Inverted Pyramid Style
+ 
+ - das Wichtigste zuerst
+ - Wichtige Details
+ - Hintergrundinformationen
+
+<hr>
+
+## Schriftarten
+**Eine einfache Klassifikation**
+
+siehe. Folien 
+
+![Typo](./img/04_17/vorlesung_1.png "Typo") 
+![Typo](./img/04_17/vorlesung_2.png "Typo") 
+![Typo](./img/04_17/vorlesung_3.png "Typo") 
+![Typo](./img/04_17/vorlesung_4.png "Typo") 
+![Typo](./img/04_17/vorlesung_5.png "Typo") 
+![Typo](./img/04_17/vorlesung_6.png "Typo") 
+![Typo](./img/04_17/vorlesung_7.png "Typo") 
+![Typo](./img/04_17/vorlesung_8.png "Typo") 
+![Typo](./img/04_17/vorlesung_9.png "Typo") 
+
