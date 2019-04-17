@@ -107,3 +107,35 @@ siehe. Folien
 ![Typo](./img/04_17/vorlesung_8.png "Typo") 
 ![Typo](./img/04_17/vorlesung_9.png "Typo") 
 
+<hr>
+
+## Schriftgrad
+
+![Typo](./img/04_17/vorlesung_10.png "Typo") 
+![Typo](./img/04_17/vorlesung_11.png "Typo") 
+![Typo](./img/04_17/vorlesung_12.png "Typo") 
+
+<hr>
+
+## Schriftschnitte
+
+![Typo](./img/04_17/vorlesung_13.png "Typo") 
+![Typo](./img/04_17/vorlesung_14.png "Typo") 
+![Typo](./img/04_17/vorlesung_15.png "Typo") 
+
+<hr>
+
+## Lesbarkeit
+**...hängt nicht vom Schriftgrad ab**
+
+![Typo](./img/04_17/vorlesung_16.png "Typo") 
+![Typo](./img/04_17/vorlesung_17.png "Typo") 
+![Typo](./img/04_17/vorlesung_18.png "Typo") 
+![Typo](./img/04_17/vorlesung_19.png "Typo") 
+![Typo](./img/04_17/vorlesung_20.png "Typo") 
+![Typo](./img/04_17/vorlesung_21.png "Typo") 
+![Typo](./img/04_17/vorlesung_22.png "Typo") 
+
+<hr>
+
+## Übungsaufgabe

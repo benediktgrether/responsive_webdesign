@@ -1,0 +1,66 @@
+/************************************/
+/* CSS Dokumentation: w3schools.com */
+/************************************/
+
+
+/* Beispiel import Schriftart */
+/* @import url('https://fonts.googleapis.com/css?family=Lato'); */
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+/* Standardanweisungen */
+
+body {
+	/* font-family: "Lato", "Helvetica", "Arial", sans-serif; */
+	font-family: 'Nunito', sans-serif;
+	font-size: 1.0em;
+	line-height: 1.0; /* Für Lesbarkeit editieren !*/
+}
+
+h1 {}
+
+p {}
+
+em {}
+
+
+
+/* Typografische style-Attribute vgl. w3-schools
+
+font-style
+font-size
+font-weight
+line-height
+text-decoration
+letter-spacing
+padding
+margin
+color
+
+*/
+
+
+/* Mediaqueries */
+
+.container{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1{
+	font-size: 36px;
+}
+
+p{
+	line-height: 1.5em;
+	color: #424242;
+}
+
+@media screen and (min-width: 35.625em) { /* entspricht >= 570px @16px */
+
+}
+
+@media screen and (min-width: 64em) { /* entspricht > 1024px @16px */
+
+}
+
+
