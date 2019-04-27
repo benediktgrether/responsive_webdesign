@@ -9,18 +9,18 @@
 
 /* Standardanweisungen */
 
+/* *{
+	margin: 0;
+} */
+
 body {
 	/* font-family: "Lato", "Helvetica", "Arial", sans-serif; */
 	font-family: 'Nunito', sans-serif;
 	font-size: 1.0em;
 	line-height: 1.0; /* Für Lesbarkeit editieren !*/
+	color: #424242;
+	/* background-color: #eaeaea; */
 }
-
-h1 {}
-
-p {}
-
-em {}
 
 
 
@@ -47,12 +47,21 @@ color
 }
 
 h1{
-	font-size: 36px;
+	font-size: 2em;
+	/* margin: 0; */
+	margin-bottom: 10px;
+}
+
+h2{
+	font-size: 1.25em;
+	/* color: #3a3a3a; */
+	color: #424242;
+	margin-bottom: 20px;
 }
 
 p{
 	line-height: 1.5em;
-	color: #424242;
+	/* color: #424242; */
 }
 
 @media screen and (min-width: 35.625em) { /* entspricht >= 570px @16px */
@@ -61,17 +70,43 @@ p{
 		margin-left: auto;
 		margin-right: auto;
 	}
+	h1{
+		font-size: 3em;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+
+	h2{
+		margin: 0;
+		font-size: 1.5em;
+		margin-bottom: 30px;
+		/* color: #848484; */
+	}
 }
 
 @media screen and (min-width: 64em) { /* entspricht > 1024px @16px */
 	.container{
-		max-width: 700px;
+		max-width: 600px;
 		margin-left: auto;
 		margin-right: auto;
 	}
 
+	h1{
+		font-size: 4em;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+
+	h2{
+		margin: 0;
+		font-size: 1.75em;
+		margin-bottom: 30px;
+		/* color: #848484; */
+	}
+
 	p{
-		margin-bottom: 2em
+		/* margin-bottom: 2em; */
+		margin-bottom: 1.25em;
 	}
 }
 
