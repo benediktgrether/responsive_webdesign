@@ -74,12 +74,69 @@ q{
 	font-weight: 400;
 }
 
+.animation{
+	position: relative;
+	width: 100%;
+}
+
 .highlight{
+	/* position: absolute; */
+
+	position: relative;
 	font-weight: 800;
 	padding: 10px 25px;
 	display: block;
+	animation-name: yellowAnimation;
+	animation-duration: 20s;
+	animation-iteration-count:infinite;
+	z-index: 9;
 	/* color: #393e46; */
 	/* font-style: italic; */
+}
+
+.blackAndYellow{
+	display: block;
+	position: absolute;
+	background-color: #424242;
+	animation-name: blackAnimation;
+	animation-duration: 20s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count:infinite;
+	height: 100%;
+	z-index: 2;
+}
+
+@keyframes blackAnimation{
+	0%{
+		width: 0
+	}
+	25%{
+		width: 0
+	}
+	30%{
+		width: 100%;
+	}
+	80%{
+		width: 100%;
+	}
+	85%{
+		width: 0;
+	}
+}
+
+@keyframes yellowAnimation{
+	35%{
+		color: #424242;
+	}
+	36%{
+		color: #eef103;
+	}
+	75%{
+		color: #eef103;
+	}
+	76%{
+		color: #424242;
+	}
 }
 
 @media screen and (min-width: 35.625em) { /* entspricht >= 570px @16px */
