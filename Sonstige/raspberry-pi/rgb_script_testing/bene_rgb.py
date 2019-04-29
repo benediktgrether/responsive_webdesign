@@ -72,9 +72,25 @@ def setColor(color):
 def main():
 	print_message()
 	while True:
-		for color in COLOR:
-			setColor(color)
-			time.sleep(0.5)
+		myInput = raw_input("Input color: > ")
+		print(myInput)
+		if(myInput == "red"):
+			setColor(0xFF0000)
+		elif(myInput == "green"):
+			setColor(0x00FF00)
+		elif(myInput == "blue"):
+			setColor(0x0000FF)
+		elif(myInput == "yellow"):
+			setColor(0xFFFF00)
+		elif(myInput == "magenta"):
+			setColor(0xFF00FF)
+		elif(myInput == "aqua"):
+			setColor(0x00FFFF)
+		else:
+			print("Wrong input")
+		# for color in COLOR:
+		# 	setColor(color)
+		# 	time.sleep(0.5)
         # setColor(red)
         # time.sleep(0.5)
 

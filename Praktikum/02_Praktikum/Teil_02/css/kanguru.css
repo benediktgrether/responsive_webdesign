@@ -72,6 +72,7 @@ q:lang(de) { quotes: "»" "«" }
 
 q{
 	font-weight: 400;
+	color: #28a2a7;
 }
 
 .highlight{
