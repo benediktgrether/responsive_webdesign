@@ -15,7 +15,8 @@ app = Flask(__name__)
 leds = {
     'red':    23,
     'blue':   4,
-    'green':  24
+    'green':  24,
+    'special': 27
 }
 
 for color in leds.keys():
